@@ -1,2 +1,1 @@
-# PrepCourse_Henry
-Repositorio de prueba del modulo 2 de Henry
+Como clonar desde GitHut a mi escritorio
